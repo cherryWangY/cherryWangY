@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cherryWangY
 - 👀 I’m interested in C++ 
-- 🌱 I’m currently learning wearable computing
+- 🌱 I’m currently learning graph neural network acceleration
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me wyyyyy321@gmail.com / 1759393381@qq.com
 
