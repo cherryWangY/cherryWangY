@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cherryWangY
-- 👀 I’m interested in C++ python
-- 🌱 I’m currently learning graph neural network acceleration
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in MLsys especially GNN acceleration.
+- 🌱 I am doing work related to Graph Partition and model compression
 - 📫 How to reach me wyyyyy321@gmail.com
 
 <!---
