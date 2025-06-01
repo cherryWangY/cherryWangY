@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cherryWangY
 - 👀 I’m interested in MLsys especially LLM training & inference and large scale GNN training.
-- 🌱 I am doing work related to Graph Partition and model compression
+- 🌱 I am doing work related to LLM Pr-train framework
 - 📫 How to reach me wyyyyy321@gmail.com
 
 <!---
